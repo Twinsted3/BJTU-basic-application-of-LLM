@@ -1,0 +1,26 @@
+Epoch 4 Train loss: 1.4315 Val loss: 1.6123
+=== sample ===
+To be or not to be, thou shalt be justice;
+Thou seeking at them tell chased them war,
+And infection the mark wife, I am now proud.
+I do thee set thee touch pre hither heart.
+Until pluck as I must world it.
+
+First Senato
+==============
+
+Epoch 5 Train loss: 1.4076 Val loss: 1.6070
+=== sample ===
+To be or not to be, we'll present awary house;
+For have no rule.
+
+First Citizen:
+We we pure now, my lord.
+
+Third Watchman:
+So well, good Cupinol
+Take a't?
+MENENIUS:
+My jest farewell that Paris; for I beseech
+To make fla
+==============

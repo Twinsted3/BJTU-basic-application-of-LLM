@@ -1,0 +1,21 @@
+Epoch 4 Train loss: 2.2905 Val loss: 2.3583
+=== sample ===
+To be or not to be, ifendeaife!
+
+Plas, bl, scondy,
+Lanarour I kethen,
+And t yourd s t d ooth I'dolllles nor bor gh is barelof des tow,
+Than cthas grordinces til my o yose,--mbe par th n,
+Hanok Be Caly fatatang.
+ilout wn
+==============
+
+Epoch 5 Train loss: 2.2581 Val loss: 2.3271
+=== sample ===
+To be or not to be,
+And worind woubsout melthe with s d arte wiltheth th athethetheperavere!
+GLOUCESTER:
+No, Laik, noothy hicer, mant menobumblod aks
+Wherere s bishid athe f hir foroladsear ar my s, itowick, llou se?
+LA
+==============

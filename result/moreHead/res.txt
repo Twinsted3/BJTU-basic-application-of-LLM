@@ -1,0 +1,32 @@
+Epoch 4 Train loss: 0.6645 Val loss: 2.2096
+=== sample ===
+TES:
+I thank you, good father.
+
+FLORIZEL:
+Do you hear?
+
+CAMILLO:
+Fear me not.
+
+LEONTES:
+Let them propertune in the king.
+
+FLORIZEL:
+How! Pray you, let's the people's meets,
+If she does vouch are so ove
+
+Epoch 5 Train loss: 0.6050 Val loss: 2.2715
+=== sample ===
+This doom impition to content now.
+
+BLUNT:
+All faults scarce, you must go well enough,
+But that you take an end perform'd.
+
+DUCHESS OF YORK:
+How?
+
+EXENTES:
+No, my good lord,
+If you might disperse your

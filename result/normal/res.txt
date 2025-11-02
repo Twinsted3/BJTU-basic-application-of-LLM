@@ -1,0 +1,25 @@
+Epoch 4 Train loss: 1.0979 Val loss: 1.6689
+=== sample ===
+To be or not to be, not our time crascred
+And flowers by him, easily to go;
+Throw my soul, my lady mother hour.
+
+KING RICHARD II:
+Who is the seas of the like a touch destraight.
+Where is my swallowing I lay complain;
+No
+==============
+
+Epoch 5 Train loss: 1.0625 Val loss: 1.6837
+=== sample ===
+To be or not to be,
+Unless the borne proved by to command,
+And make me at Salisbury?
+
+LADY CAPULET:
+The liege hath of my sin's tongue;
+And that has spake for worth pay and kinsman.
+
+Nurse:
+An is vention as a husband sta
+==============

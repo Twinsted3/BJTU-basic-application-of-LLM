@@ -1,0 +1,25 @@
+Epoch 4 Train loss: 1.1830 Val loss: 3.2095
+=== sample ===
+To be or not to be,
+A did wit to wek, to wen. This irrah h, to
+favour:
+Nay, when they'll me of this fiend off o,
+mayir: we I thininesssss; as treknlouplest mitwan!
+pinitt thinoupareffoust dean miadeayeffffffffffeat it s
+==============
+
+Epoch 5 Train loss: 1.1516 Val loss: 3.2311
+=== sample ===
+To be or not to be,
+End hard ad of, tetes:
+My husband ben tok ofencesen'.
+Ner:
+Aman! keep what miness ays de,
+Unhappppony!
+Sperrrrig.
+
+
+NUMENEN:
+R gairdm:
+T geveeventt mpoplidenyaSt sspgrvedeeeenalllt? limaltttt mmyinus   
+==============
