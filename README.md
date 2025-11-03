@@ -93,11 +93,16 @@ python run.py
 - no_layernorm/：移除LayerNorm
 - no_residual/：移除残差连接
 - moreHead/：更多注意力头，和更多维度的编码
+- loss_comparison.png：训练结果的loss图像
 
-其他文件夹表示调整不同参数的实验，每个实验包含：
+每个实验文件夹包含：
 - train_loss.csv：训练过程中每轮的 loss
 - res.txt：最后两轮 loss 与采样文本结果
 - config.txt：记录着训练config.py文件的内容
+
+实验结果val_loss图像展示: 由于时间关系，大部分实验只跑了5个epoch，故在消融实验中无法看到residual与normal的大趋势，但可看出在没有位置编码和layernorm情况下实验结果较差，且在当前任务下增多注意力头会导致过拟合问题。
+
+![val_loss折线图](./result/loss_comparison.png "loss fig")
 
 ---
 
