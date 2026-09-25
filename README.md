@@ -60,7 +60,8 @@ pip install -r requirements.txt
 在终端中进入项目目录：
 
 ```bash
-cd 25125381-juwanglinbo/
+cd BJTU-basic-application-of-LLM
+
 python run.py
 ```
 
@@ -106,8 +107,6 @@ python run.py
 
 ---
 
-## 作者
-
-25125381-琚王琳博
+## 声明
 
 该项目仅用于大模型基础与应用课程考核内容。
